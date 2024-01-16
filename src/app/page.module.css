@@ -1,10 +1,15 @@
-.main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  padding: 6rem;
-  min-height: 100vh;
+.main{
+  background-color: rgb(244, 244, 140);
+}
+
+.pokebtn{
+  background-color: yellow;
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  border: 3px solid red;
+  font-size: large;
+  color: red;
 }
 
 .description {
